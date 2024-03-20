@@ -1,7 +1,7 @@
-package factory;
+package chapter1;
 
-import static factory.NyPizza.Size.SMALL;
-import static factory.Pizza.Topping.*;
+import static chapter1.NyPizza.Size.SMALL;
+import static chapter1.Pizza.Topping.*;
 
 /**
  * @author karl xie

@@ -1,4 +1,4 @@
-package factory;
+package chapter1;
 
 import java.util.EnumSet;
 import java.util.Objects;

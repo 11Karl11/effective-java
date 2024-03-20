@@ -1,4 +1,4 @@
-package factory;
+package chapter1;
 
 /**
  * 不可变性
