@@ -2,7 +2,7 @@ package chapter2;
 
 /**
  * @author karl xie
- * Created on 2024-03-20 10:03
+ *
  */
 public class Elvis {
     private static final Elvis INSTANCE = new Elvis();

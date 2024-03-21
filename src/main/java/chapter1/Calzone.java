@@ -2,7 +2,7 @@ package chapter1;
 
 /**
  * @author karl xie
- * Created on 2024-03-19 16:55
+ *
  */
 public class Calzone extends Pizza {
 

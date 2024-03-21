@@ -11,7 +11,7 @@ package chapter2;
  *
  * 总的来说，如果你的单例类不需要继承其他类，使用枚举实现单例模式是一个非常好的选择。
  * @author karl xie
- * Created on 2024-03-20 10:32
+ *
  */
 public enum Elvis1 {
     INSTANCE;

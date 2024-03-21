@@ -4,7 +4,7 @@ import java.util.Objects;
 
 /**
  * @author karl xie
- * Created on 2024-03-19 16:42
+ *
  */
 public class NyPizza extends Pizza{
 

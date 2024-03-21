@@ -4,7 +4,7 @@ import java.util.function.Supplier;
 
 /**
  * @author karl xie
- * Created on 2024-03-20 10:04
+ *
  */
 public class Test {
 

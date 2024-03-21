@@ -5,7 +5,7 @@ import static chapter1.Pizza.Topping.*;
 
 /**
  * @author karl xie
- * Created on 2024-03-19 17:08
+ *
  */
 public class Test2 {
     public static void main(String[] args) {

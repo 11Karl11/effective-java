@@ -6,7 +6,7 @@ import java.util.Set;
 
 /**
  * @author karl xie
- * Created on 2024-03-19 16:31
+ *
  */
 public abstract class Pizza {
     public enum Topping {HAM, MUSHROOM, ONION, PEPPER, SAUSAGE}

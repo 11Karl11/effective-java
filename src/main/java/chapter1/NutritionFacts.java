@@ -13,7 +13,7 @@ package chapter1;
  * 集中管理默认值：所有的默认值都在Builder类的声明处集中管理，这使得维护和查看默认值变得容易，也保证了默认值的一致性。
  * 增强可读性和易用性：通过Builder模式，创建对象时只需指定需要的参数，对于其他参数可以省略，这使得代码更加清晰和易于理解。同时，这种方式也支持链式调用，进一步提高了代码的可读性。
  * @author karl xie
- * Created on 2024-03-19 16:06
+ *
  */
 public class NutritionFacts {
     private final int servingSize;
