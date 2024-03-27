@@ -2,10 +2,9 @@ package chapter6;
 
 import chapter4.one.EmailService;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
-import java.util.TreeSet;
+import java.util.*;
+
+import static java.util.Comparator.comparingInt;
 
 /**
  * 在这个示例中，首先使用 HashSet 来去除重复的字符串。然后，将 Set 转换回数组，以便使用 Arrays.sort() 方法对其进行排序。
@@ -20,7 +19,7 @@ public class SortUniqueStrings {
     public static void main(String[] args) {
         // 使用HashSet去除重复的字符串
         Set<String> uniqueStrings = new HashSet<>(Arrays.asList("c", "b", "e", "a"));
-
+        System.out.println(uniqueStrings);
         // 将Set转换回数组
         String[] uniqueArray = uniqueStrings.toArray(new String[0]);
 
@@ -32,4 +31,6 @@ public class SortUniqueStrings {
             System.out.println(str);
         }
     }
+
+
 }
