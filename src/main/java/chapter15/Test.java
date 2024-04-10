@@ -25,7 +25,7 @@ public class Test {
             System.out.println(number);
         }
 
-        for (Integer integer : pickTwoNew(1, 2, 3)) {
+        for (Integer integer : pickTwo(1, 2, 3)) {
             System.out.println(integer);
         }
 
